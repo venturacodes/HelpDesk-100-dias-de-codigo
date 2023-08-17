@@ -5,6 +5,6 @@ Estudar melhores práticas de programação utilizando primariamente Kotlin e Sp
 
 ### Premissas
 
-[ ] Aprender mais sobre [KotlinLang](https://kotlinlang.org/);
-[ ] Aprender mais sobre [SpringBoot](https://spring.io/projects/spring-boot);
-[ ] Aprender mais sobre Bancos de dados em geral e a integração com SpringBoot;
+- [ ] Aprender mais sobre [KotlinLang](https://kotlinlang.org/);
+- [ ] Aprender mais sobre [SpringBoot](https://spring.io/projects/spring-boot);
+- [ ] Aprender mais sobre Bancos de dados em geral e a integração com SpringBoot;
